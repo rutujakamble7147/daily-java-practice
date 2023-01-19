@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExceptionExample/Cheaked Exception.iml" filepath="$PROJECT_DIR$/ExceptionExample/Cheaked Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumExample/EnumExample.iml" filepath="$PROJECT_DIR$/EnumExample/EnumExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functional-Interface/Functional-Interface.iml" filepath="$PROJECT_DIR$/Functional-Interface/Functional-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Opctional-Example/Java-Opctional-Example.iml" filepath="$PROJECT_DIR$/Java-Opctional-Example/Java-Opctional-Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedIist_Example/Linked_Example.iml" filepath="$PROJECT_DIR$/LinkedIist_Example/Linked_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/LooseCouplingExample/LooseCouplingExample.iml" filepath="$PROJECT_DIR$/LooseCouplingExample/LooseCouplingExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/diamond problem and solution/diamond problem and solution.iml" filepath="$PROJECT_DIR$/diamond problem and solution/diamond problem and solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics-Example/generics-Example.iml" filepath="$PROJECT_DIR$/generics-Example/generics-Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/immutable class/immutable class.iml" filepath="$PROJECT_DIR$/immutable class/immutable class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pass-by-value/pass-by-value.iml" filepath="$PROJECT_DIR$/pass-by-value/pass-by-value.iml" />
     </modules>
   </component>
 </project>
